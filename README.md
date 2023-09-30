@@ -1,2 +1,2 @@
 # poojatrimuke
-welcome to the github
+welcome to the github and readme
